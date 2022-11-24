@@ -1,2 +1,2 @@
-# snippets
+# Snippets
 Usefull work snippets
